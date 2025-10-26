@@ -53,6 +53,8 @@ npm run build
 npm run serve
 ```
 
+--- 
+
 ## Deployment
 
 ### Netlify
@@ -73,6 +75,8 @@ Deploy!!
 gatsby build
 npm run deploy
 ```
+
+---
 
 ## Acknowledgment
 
