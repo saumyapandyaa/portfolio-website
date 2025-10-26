@@ -59,13 +59,10 @@ npm run serve
 
 ### Netlify
 
-Push your code to GitHub.
-
-Connect your repo to Netlify.
-
-Set build command: gatsby build
-
-Set publish directory: public/
+1️⃣ Push your code to GitHub.
+2️⃣ Connect your repo to Netlify.
+3️⃣ Set build command: gatsby build
+4️⃣ Set publish directory: public/
 
 Deploy!!
 
