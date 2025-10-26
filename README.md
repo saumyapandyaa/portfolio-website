@@ -53,9 +53,9 @@ npm run build
 npm run serve
 ```
 
-##Deployment
+## Deployment
 
-###Netlify
+### Netlify
 
 Push your code to GitHub.
 
@@ -67,14 +67,14 @@ Set publish directory: public/
 
 Deploy!!
 
-###GitHub Pages
+### GitHub Pages
 
 ```
 gatsby build
 npm run deploy
 ```
 
-##Acknowledgment
+## Acknowledgment
 
 This portfolio was inspired by Brittany Chiang and her remarkable open-source Gatsby portfolio (v4).
 
